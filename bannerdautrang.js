@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2n9njt2/' target='_blank'><img src='https://file4.batdongsan.com.vn/crop/600x315/2018/07/20/20180720095635-6349_wm.jpg' width='500px'/><br/>Liên hệ ngay hotline:090 678 7041 </a>. Nhận giá tốt chủ đầu tư. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2n9njt2/' target='_blank'><img src='https://2.bp.blogspot.com/-wITmMB65_iw/W2gebYVuHAI/AAAAAAAAF_8/JqYpT3O7Yh07QG9Wmzc8p9-DSLXTHqkFwCLcBGAs/s400/sdpl-Copy.jpg' width='500px'/><br/>Liên hệ ngay hotline:090 678 7041 </a>. Nhận giá tốt chủ đầu tư. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
